@@ -1,4 +1,4 @@
-# NFT Dashboard - Jora Hovsepyan
+# NFT Dashboard -  imp. WEB3 Technologies
 
 Welcome to **NFT Dashboard**, a React application that allows users to connect their Ethereum/Polygon wallet, view their NFTs, pick a random NFT, mark favorites, and see a chart of their collection. This project was created as part of a JavaScript learning module to practice frontend skills, API integration, and React frameworks.
 
