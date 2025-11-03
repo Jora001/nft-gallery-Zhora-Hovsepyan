@@ -19,8 +19,7 @@ Welcome to **NFT Dashboard**, a React application that allows users to connect t
 
 ## **Demo**
 
-Deployed on Vercel: [https://nft-dashboard.vercel.app](https://nft-dashboard.vercel.app)  
-*(Replace with your actual deployment URL after deploy)*
+Deployed on Vercel:
 
 ---
 
